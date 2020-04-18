@@ -88,16 +88,16 @@ Your finished project must include all of the following requirements:
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [1] box1: `teal`
+* [ 1] box2: `gold`
+* [ 1] box3: `cadetblue`
+* [ 1] box4: `coral`
+* [1 ] box5: `crimson`
+* [ 1] box6: `forestgreen`
+* [ 1] box7: `darkorchid`
+* [ 1] box8: `hotpink`
+* [ 1] box9: `indigo`
+* [ ]1 box10: `dodgerblue`
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
