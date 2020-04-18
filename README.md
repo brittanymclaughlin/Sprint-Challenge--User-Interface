@@ -33,13 +33,32 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
+Semantic HTML is a way of using meaning-based tags and code for better understanding so that others looking at your code will understand how the page flows. Semantic HTML adds meaning to code that could otherwise seem daunting.
+
+
 2. What are the 4 areas of the box model?
+
+
+The 4 areas of the box model are content, padding, border, and margin.
+
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+
+The cross axis is what the align-items: center works on.
+
+
 4. Explain why git is valuable to a team of developers.
 
+
+Git is valuable to a team of developers because it allows for them to work on the code independently, compare the different changes that they have made and merge the code together. It also allows for rolling back to previous versions in case mistakes were made or changes need to be reversed.
+
+
 5. Define mobile-first design in your own words.
+
+
+Mobile-first design is where a developer has designed a website to be compatible with a mobile device first. Meaning that the content is meant to be displayed on a smaller screen and then media queries are used to then build the site up to a larger display by using a min-width property. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -47,10 +66,10 @@ You are expected to be able to answer all these questions. Your responses contri
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ 1] Create a forked copy of this project
+- [ 1] Add your team lead as collaborator on Github
+- [1 ] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [ 1] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
 - [ ] Push commits: git push origin `<firstName-lastName>`
 
@@ -62,8 +81,8 @@ Your finished project must include all of the following requirements:
 
 [Review the provided design file for the home page](https://tk-assets.lambdaschool.com/fbe7ebfc-a4c2-4a32-8929-bbd41fbc4f67_ScreenShot2020-03-25at11.03.41AM.png).  Notice the navigation and header images are missing.
 
-* [ ] Build the HTML and CSS to create the missing navigation and header
-* [ ] Link the `About` navigation item to an about.html page (you'll also need to create `about.html`)
+* [1] Build the HTML and CSS to create the missing navigation and header
+* [1] Link the `About` navigation item to an about.html page (you'll also need to create `about.html`)
 * [ ] Make your design responsive such that it is accessible on mobile(500px) and tablet(800 px) and matches the [mobile](design/mobile.png) wireframe
 *  Add responsive breakpoints to your code by using media queries
 
